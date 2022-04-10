@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1019537379009",
+    "project_id": "fir-phone-authentication-7e8c7",
+    "storage_bucket": "fir-phone-authentication-7e8c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019537379009:android:2605847241dfb46c480e40",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthenticationphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019537379009-r9vc3k7lehr264p77nuia63riq726tai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY00meQMe6vy594qOMrfsHplxzYTzSfmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019537379009-r9vc3k7lehr264p77nuia63riq726tai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019537379009:android:560e752636045cc4480e40",
+        "android_client_info": {
+          "package_name": "com.example.firebasephoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019537379009-r9vc3k7lehr264p77nuia63riq726tai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY00meQMe6vy594qOMrfsHplxzYTzSfmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019537379009-r9vc3k7lehr264p77nuia63riq726tai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019537379009:android:e8444a6d6cd92d72480e40",
+        "android_client_info": {
+          "package_name": "com.example.otpverfication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019537379009-r9vc3k7lehr264p77nuia63riq726tai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY00meQMe6vy594qOMrfsHplxzYTzSfmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019537379009-r9vc3k7lehr264p77nuia63riq726tai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
